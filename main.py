@@ -3,7 +3,7 @@ from visualize import make_plot
 
 import json
 
-#didn't finish doc string
+
 def run(filepath: str):
     """
     This function is the comprehensive pipeline that  opens the json files with reviews, extracts it, 
